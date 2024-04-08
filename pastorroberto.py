@@ -3,3 +3,4 @@ print('pare de ser capitalista, chato, etc.')
 #kkkkkkkkkk
 #         'mateus é um genio!!')
 #aninha é maravilhosa e inteligente e AISTEN
+# eu amo isadora rodrigues.
