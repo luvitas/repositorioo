@@ -1,0 +1,1 @@
+print('pare de ser capitalista, chato, etc.')
